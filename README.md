@@ -1,19 +1,24 @@
 
-#Git User Info
+Git User Info
 
-##About 
+About 
 
 
 It simply loads github user info data from API and disply.
 
 
+Screenshots
+
+![WhatsApp Image 2021-04-10 at 6 24 11 PM](https://user-images.githubusercontent.com/18508651/114270509-6a709880-9a2a-11eb-9787-8af2f82efdbb.jpeg)
 
 
 
 
 
 
-##Built With
+
+
+Built With
 
 Kotlin - First class and official programming language for Android development.
 
