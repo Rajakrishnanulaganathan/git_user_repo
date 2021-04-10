@@ -1,4 +1,7 @@
-About 
+
+#Git User Info
+
+##About 
 
 
 It simply loads github user info data from API and disply.
@@ -7,7 +10,10 @@ It simply loads github user info data from API and disply.
 
 
 
-Built With
+
+
+
+##Built With
 
 Kotlin - First class and official programming language for Android development.
 
