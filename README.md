@@ -9,9 +9,10 @@ It simply loads github user info data from API and disply.
 
 Screenshots
 
-![WhatsApp Image 2021-04-10 at 6 24 11 PM](https://user-images.githubusercontent.com/18508651/114270509-6a709880-9a2a-11eb-9787-8af2f82efdbb.jpeg)
 
-<img src="https://user-images.githubusercontent.com/18508651/114270509-6a709880-9a2a-11eb-9787-8af2f82efdbb.jpeg" width="48">
+<img src="https://user-images.githubusercontent.com/18508651/114270509-6a709880-9a2a-11eb-9787-8af2f82efdbb.jpeg" width="400">
+<img src="https://user-images.githubusercontent.com/18508651/114270595-e834a400-9a2a-11eb-96c3-0041b4ad665b.jpeg" width="400">
+
 
 
 
