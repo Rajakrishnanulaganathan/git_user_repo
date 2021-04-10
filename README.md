@@ -11,6 +11,9 @@ Screenshots
 
 ![WhatsApp Image 2021-04-10 at 6 24 11 PM](https://user-images.githubusercontent.com/18508651/114270509-6a709880-9a2a-11eb-9787-8af2f82efdbb.jpeg)
 
+<img src="https://user-images.githubusercontent.com/18508651/114270509-6a709880-9a2a-11eb-9787-8af2f82efdbb.jpeg" width="48">
+
+
 
 
 
